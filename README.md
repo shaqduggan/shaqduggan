@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaquillecode
 2
-- 👀 I’m interested in smart conctratcts and bolockchain
+- 👀 I’m interested in smart contracts and blockchain technology
 3
 - 🌱 I’m currently learning Python
 4
