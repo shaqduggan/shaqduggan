@@ -6,5 +6,5 @@
 
 - 💞️ I love to drive fast cars, play Basketball, and NYC Handball.
 
-- 📫 How to reach me shaquille.duggan@codeimmersives.com
+- 📫 Reach me at shaq.duggan.se@gmail.com
 
