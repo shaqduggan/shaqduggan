@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaquillecode
 
-- 👀 I’m interested in working on smart contracts and blockchain technology projects
+- 👀 I’m interested in image processing tools, data science, and smart contracts
 
 - 🌱 I’m currently learning Python
 
