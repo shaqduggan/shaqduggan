@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaquillecode
 
-- 👀 I’m interested in working on freelance web development projects for free.
+- 👀 I’m building projects for free.
 
 - 🌱 I’m currently learning Python
 
