@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning Python
 
-- 💞️ I love my clean cozy room and I love to play basketball.
+- 💞️ I love basketball, boxing, and dancing.
 
 - 📫 Reach me at shaq.duggan.se@gmail.com
