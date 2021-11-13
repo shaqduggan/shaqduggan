@@ -12,4 +12,5 @@ Languages learned: HTML5, CSS3, PHP7, JavaScript, Python3.
 Libraries/Frameworks learned: Bootstrap, jQuery, JSON, Express, React.js, Node.js, Django, Flask.
 Tools/Technologies learned: AWS, Heroku, Git/Github/Github pages, Jupyter notebook, Visual Studio Code.
 </p>
+
 Reach me at shaq.duggan.se@gmail.com
