@@ -10,6 +10,8 @@ Languages learned: HTML5, CSS3, PHP7, JavaScript, Python3.
 </p>
 <p>
 Libraries/Frameworks learned: Bootstrap, jQuery, JSON, Express, React.js, Node.js, Django, Flask.
+</p>
+<p>
 Tools/Technologies learned: AWS, Heroku, Git/Github/Github pages, Jupyter notebook, Visual Studio Code.
 </p>
 
