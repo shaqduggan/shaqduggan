@@ -5,11 +5,11 @@
 <br>
 <h1>Tech Stack:</h1>
 <ul>
-  <li> • Languages: JavaScript, HTML, CSS, PHP, Python</li>
-  <li> • Frameworks & Libraries: Django, Flask, Bootstrap, jQuery</li>
-  <li> • Frameworks & Libraries: Express.js, React.js, Node.js(server-side scripting)</li> 
-  <li> • Databases: MySQL, SQLite, SQLAlchemy, & MongoDB</li>
-  <li> • Management & Deployment: Amazon Web Services, Git, GitHub, GitLab, Heroku</li>
+  <li> Languages: JavaScript, HTML, CSS, PHP, Python</li>
+  <li> Frameworks & Libraries: Django, Flask, Bootstrap, jQuery</li>
+  <li> Frameworks & Libraries: Express.js, React.js, Node.js(server-side scripting)</li> 
+  <li> Databases: MySQL, SQLite, SQLAlchemy, & MongoDB</li>
+  <li> Management & Deployment: Amazon Web Services, Git, GitHub, GitLab, Heroku</li>
 </ul>
 
 <em>Reach me at shaq.duggan.se@gmail.com<em>
