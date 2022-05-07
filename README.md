@@ -10,6 +10,7 @@
   <li> Frameworks & Libraries: Express.js, React.js, Node.js(server-side scripting)</li> 
   <li> Databases: MySQL, SQLite, SQLAlchemy, & MongoDB</li>
   <li> Management & Deployment: Amazon Web Services, Git, GitHub, GitLab, Heroku</li>
+  <li> Data Analysis and ORM tools: Pandas, Numpy, Matplotlib, SQLAlchemy</li>
 </ul>
 
 <em>Reach me at shaq.duggan.se@gmail.com<em>
