@@ -13,4 +13,4 @@
   <li> Data Analysis and ORM tools: Pandas, Numpy, Matplotlib, SQLAlchemy</li>
 </ul>
 
-<em>Reach me at shaq.duggan.se@gmail.com<em>
+<em>Reach me at shaqduggan@gmail.com<em>
