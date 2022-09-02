@@ -3,17 +3,23 @@
 <h1>About me</h1>
 <p> My web development journey began with gamified tools on StudioWeb. I worked on freelance web development projects while simultaneously pursuing certification & training from Amazon Web Services, CompTIA, Code Immersives, and Fullstack Academy. I have strong interests in Virtual Machines (VMWare, etc.), Information Assurance (Cybersecurity), and Cloud Native API Design (Amazon Web Services). </p>
 <br>
-<h1>TECHNICAL SKILLS</h1>
+<h1> SKILLS </h1>
+<h2> Expert: </h2>
 <ul>
-  <li> Object-Oriented Design </li>
-  <li> Proficient with Scripting Languages: Python, Java, Shell, Bash, JavaScript, PHP </li>
-  <li> Proficient with Framework and Libraries: Django, Flask, Bootstrap, jQuery </li>
-  <li> Familiar with Frameworks & Libraries: Express.js, React.js, Node.js(server-side scripting) </li>
-  <li> Proficient with Database tools: MySQL, SQLite, & MongoDB </li>
-  <li> Proficient with Management & Deployment: Amazon Web Services, Git, GitHub, GitLab, Heroku </li>
-  <li> Proficient with Data Analysis and ORM tools: Pandas, Numpy, Matplotlib, SQLAlchemy </li>
-  <li> Familiar with Network Architecture, Firewalls, TCP/IP, OSI Model, VPN, DNS </li>
-  <li> Familiar with security tools Splunk, Nmap, Wireshark </li>
+    <li>Linux & Windows Environments, Object-Oriented Design </li>
+</ul>
+
+<h2> Proficient: </h2> 
+<ul>
+    <li> <b>Scripting Languages:</b> Python, Java, Shell, Bash, Javascript, PHP </li>
+    <li> <b>Framework & Libraries:</b> Django, Flask, Bootstrap, jQuery
+    <li> <b>Databases:</b> MySQL, SQLALchemy (Python Toolkit and Object Relational Mapper)</li>
+</ul>
+
+<h2> Familiar: </h2>
+<ul>
+    <li> Network Architecture, Firewalls, TCP/IP, OSI Model, VPN, DNS </li>
+    <li> Security Tools, Splunk, Nmap, Wireshark </li>
 </ul>
 
 <em>Reach me at shaqduggan@gmail.com<em>
