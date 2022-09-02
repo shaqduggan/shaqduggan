@@ -4,19 +4,19 @@
 <p> My web development journey began with gamified tools on StudioWeb. I worked on freelance web development projects while simultaneously pursuing certification & training from Amazon Web Services, CompTIA, Code Immersives, and Fullstack Academy. I have strong interests in Virtual Machines (VMWare, etc.), Information Assurance (Cybersecurity), and Cloud Native API Design (Amazon Web Services). </p>
 <br>
 <h1> SKILLS </h1>
-<h2> Expert: </h2>
+<h2> Expert </h2>
 <ul>
     <li>Linux & Windows Environments, Object-Oriented Design </li>
 </ul>
 
-<h2> Proficient: </h2> 
+<h2> Proficient </h2> 
 <ul>
     <li> <b>Scripting Languages:</b> Python, Java, Shell, Bash, Javascript, PHP </li>
     <li> <b>Framework & Libraries:</b> Django, Flask, Bootstrap, jQuery
     <li> <b>Databases:</b> MySQL, SQLALchemy (Python Toolkit and Object Relational Mapper)</li>
 </ul>
 
-<h2> Familiar: </h2>
+<h2> Familiar </h2>
 <ul>
     <li> Network Architecture, Firewalls, TCP/IP, OSI Model, VPN, DNS </li>
     <li> Security Tools, Splunk, Nmap, Wireshark </li>
