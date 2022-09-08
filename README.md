@@ -11,8 +11,8 @@
 
 <h2> Proficient </h2> 
 <ul>
-    <li> <b>Scripting Languages:</b> Python, Java, Shell, Bash, Javascript, PHP </li>
-    <li> <b>Framework & Libraries:</b> Django, Flask, Bootstrap, jQuery
+    <li> <b>Scripting Languages:</b> Bash, Javascript, PHP, Python </li>
+    <li> <b>Framework & Libraries:</b> Django, Flask, Bootstrap, jQuery </li>
     <li> <b>Databases:</b> MySQL, SQLALchemy (Python Toolkit and Object Relational Mapper)</li>
 </ul>
 
