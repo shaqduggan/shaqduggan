@@ -18,8 +18,8 @@
 
 <h2> Familiar </h2>
 <ul>
-    <li> Network Architecture, Firewalls, TCP/IP, OSI Model, VPN, DNS </li>
-    <li> Security Tools, Splunk, Nmap, Wireshark </li>
+    <li> <b>Network Architecture:</b> Firewalls, TCP/IP, OSI Model, VPN, DNS </li>
+    <li> <b>Security Tools:</b> Splunk, Nmap, Wireshark </li>
 </ul>
 
 <em>Reach me at shaqduggan@gmail.com<em>
