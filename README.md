@@ -9,7 +9,6 @@ I wanted to solve real world problems and become a competent Software Developer.
 So I completed a marathon paced 12 month Coding Bootcamp at Code Immersives, which focused on Fullstack Web Development. 
 Simultaneously, I enrolled in a guided study program with Amazon Academy Cloud foundations to understand Amazon cloud services and get AWS certifications.
 </p>
-<p>I studied at St John's University in Queens, NY. I received a Bachelors in Health Science in the summer of 2021.</p>
 <br>
 <h1> SKILLS </h1>
 <h2> Expert </h2>
