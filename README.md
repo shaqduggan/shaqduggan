@@ -2,12 +2,8 @@
 <img width="1440" alt="Screen Shot 2021-11-12 at 7 31 06 PM" src="https://user-images.githubusercontent.com/84408174/141599013-df775cab-4fe6-48b6-8a2e-ba929c2a788c.jpeg">
 <h1>About me</h1>
 <p>
-I studied at St John's University in Queens, NY. I received a Bachelors in Health Science in the spring of 2021.
-I used HTML, CSS, Javascript, Python, PHP, and Wordpress to build websites as a freelance web developer.
-I wanted to solve real world problems and become a competent Software Developer.
-So I completed a marathon paced 12 month Coding Bootcamp at Code Immersives, which focused on Fullstack Web Development.
-Simultaneously, I enrolled in a guided study program with Amazon Academy Cloud foundations to understand Amazon cloud services and get AWS certifications.
-I am continually seeking opportunities to become proficient with new technologies.
+Hi, my name is Shaquille. I am a software engineer based in New York City. I take great pride in contributing to software development teams.
+See below for a list of my most recent skills and knowledge in various programming languages.
 </p>
 <br>
 <h1> SKILLS </h1>
