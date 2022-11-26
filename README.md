@@ -24,5 +24,3 @@ See below for a list of my most recent skills and knowledge in various programmi
     <li> <b>Network Architecture:</b> Firewalls, TCP/IP, OSI Model, VPN, DNS </li>
     <li> <b>Security Tools:</b> Splunk, Nmap, Wireshark </li>
 </ul>
-
-<em>Reach me at shaqduggan@gmail.com<em>
