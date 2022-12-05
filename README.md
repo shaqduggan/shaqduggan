@@ -6,21 +6,7 @@ Hi, my name is Shaquille. I am a software engineer based in New York City. I tak
 See below for a list of my most recent skills and knowledge in various programming languages.
 </p>
 <br>
-<h1> SKILLS </h1>
-<h2> Expert </h2>
-<ul>
-    <li>Linux & Windows Environments, Object-Oriented Design </li>
-</ul>
-
-<h2> Proficient </h2> 
-<ul>
-    <li> <b>Scripting Languages:</b> Bash, Javascript, PHP, Python </li>
-    <li> <b>Framework & Libraries:</b> Django, Flask, Bootstrap, jQuery </li>
-    <li> <b>Databases:</b> MySQL, SQLALchemy (Python Toolkit and Object Relational Mapper)</li>
-</ul>
-
-<h2> Familiar </h2>
-<ul>
-    <li> <b>Network Architecture:</b> Firewalls, TCP/IP, OSI Model, VPN, DNS </li>
-    <li> <b>Security Tools:</b> Splunk, Nmap, Wireshark </li>
-</ul>
+<h1> Tools I use </h1>
+<p>
+Java, Kotlin, PHP, SQL, Python, HTML, CSS, JavaScript; Frameworks and Libraries: Django, Flask, Bootstrap, jQuery; Operating Systems: Android, Linux, Windows; Network Architecture: Firewalls, TCP/IP, OSI Model, VPN, DNS; Security Tools: Splunk, Nmap, Wireshark
+<p>
