@@ -8,5 +8,5 @@ See below for a list of my most recent skills and knowledge in various programmi
 <br>
 <h1> Tools I use </h1>
 <p>
-Java, Kotlin, PHP, SQL, Python, HTML, CSS, JavaScript; Frameworks and Libraries: Django, Flask, Bootstrap, jQuery; Operating Systems: Android, Linux, Windows; Network Architecture: Firewalls, TCP/IP, OSI Model, VPN, DNS; Security Tools: Splunk, Nmap, Wireshark
+Android & Kotlin, Java, PHP, SQL, Python, JavaScript; Frameworks and Libraries: Django, Flask, Bootstrap, jQuery; Operating Systems: Android, iOS, Linux, Windows; Network Architecture: Firewalls, TCP/IP, OSI Model, VPN, DNS; Security Tools: Splunk, Nmap, Wireshark
 <p>
