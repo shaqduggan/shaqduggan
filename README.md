@@ -3,10 +3,10 @@
 <h1>About me</h1>
 <p>
 Hi, my name is Shaquille. I am a software engineer based in New York City. I take great pride in contributing to software development teams.
-See below for a list of my most recent skills and knowledge in various programming languages.
+See below for a list of my most recent skills and knowledge in various programming languages
 </p>
 <br>
 <h1> Tools I use </h1>
 <p>
-Android & Kotlin, Java, PHP, SQL, Python, JavaScript; Frameworks and Libraries: Django, Flask, Bootstrap, jQuery; Operating Systems: Android, iOS, Linux, Windows; Network Architecture: Firewalls, TCP/IP, OSI Model, VPN, DNS; Security Tools: Splunk, Nmap, Wireshark
+Java, Android, Kotlin, Python, SQL, PHP, Javascript; Frameworks and Libraries: Django, Flask, Bootstrap, jQuery; Operating Systems: Android, iOS, Linux, Windows; Network Architecture: Firewalls, TCP/IP, OSI Model, VPN, DNS; Security Tools: Splunk, Nmap, and Wireshark
 <p>
