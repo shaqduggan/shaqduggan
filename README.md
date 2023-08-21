@@ -3,10 +3,11 @@
 <h1>About me</h1>
 <p>
 Hi, I'm Shaquille, a software engineer with over two years of experience in developing mobile applications and web services.
-See below for a list of my most recent skills and knowledge in various programming languages
 </p>
 <br>
 <h1> Tools I use </h1>
 <p>
-I'm proficient in Java, Kotlin, Android, Python, SQL, PHP, and JavaScript. I also have credentials in AWS cloud computing, including the AWS Academy Graduate and the AWS Certified Cloud Practitioner certifications. 
+I use Java, Kotlin, Android, Python, SQL, PHP, and JavaScript. I also have credentials in AWS cloud computing, including the AWS Academy Graduate and the AWS Certified Cloud Practitioner certifications. I'm passionate about learning and adapting to new technologies and challenges in the software industry. I enjoy collaborating with other engineers and stakeholders to deliver high-quality products and services.
+
+Feel free to reach out if you want to connect or learn more about my work.
 <p>
