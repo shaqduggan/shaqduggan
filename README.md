@@ -7,7 +7,7 @@ Hi, I'm Shaquille, an Android developer with over two years of experience in dev
 <br>
 <h1> Tools I use </h1>
 <p>
-I use Java, Kotlin, Android, Python, SQL, PHP, and JavaScript. I also have credentials in AWS cloud computing, including the AWS Academy Graduate and the AWS Certified Cloud Practitioner certifications. I'm passionate about learning and adapting to new technologies and challenges.
+I use Kotlin, Java, JavaScript, Python, and SQL. I also have credentials in AWS cloud computing, including the AWS Academy Graduate and the AWS Certified Cloud Practitioner certifications. I'm passionate about learning and adapting to new technologies and challenges.
 
 Feel free to reach out if you want to connect or learn more about my work.
 </p>
