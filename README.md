@@ -7,8 +7,8 @@
 <br>
 <h1> Tools I use </h1>
 <p>
-  My preferred tools are Kotlin and Jetpack Compose and I enjoy collaborating with other engineers and stakeholders to deliver high-quality products and services.
+  My preferred tools are Kotlin and Jetpack Compose, which I use to write clean, efficient, and easy-to-understand code. I will bring a high level of integrity and work ethic and strive for ways to provide a
+  better product and a better experience for users.
   
   Feel free to reach out if you want to connect or learn more about my work.
-
 </p>
