@@ -5,5 +5,6 @@
   I am passionate about looking for ways to provide a better product and a better experience for people.
   I am a software developer specializing in the design and development of mobile applications and web services.
   Feel free to reach out if you want to connect or learn more about my work.
+  <a href="https://shaqduggan.github.io/main.html">Visit my website</a>
 </p>
 <br>
